@@ -4,7 +4,7 @@ import json
 
 apiKey = input("Please enter your API Key: ")
 apiSecret = input("Please enter your API Secret: ")
-email = input("Please enter email: ")\
+email = input("Please enter email: ")
 print("aws, azure, gcp") 
 provider = input("Please enter a cloud provider from the list above: ")
 headers = {
